@@ -69,7 +69,7 @@ REG NO:
   except KeyError:
     c.send("Not Found".encode())
 ```
-### SEVER:
+### SERVER:
 ```
 import socket
 s=socket.socket()
@@ -84,8 +84,8 @@ while True:
 ![Screenshot 2024-03-12 231113](https://github.com/Johnydj123/2c.ARP_RARP_PROTOCOLS/assets/145953459/9c46c3bc-78e6-4559-8d8e-35d62617e4f2)
 
 
- ### SEVER
- ![Uploading Screenshot 2024-03-12 231158.png…]()
+ ### SERVER
+![Screenshot 2024-03-12 231158](https://github.com/Johnydj123/2c.ARP_RARP_PROTOCOLS/assets/145953459/6570ef10-7cb9-45fd-8b91-e2e8cb302f3f)
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
